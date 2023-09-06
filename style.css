@@ -6,6 +6,10 @@
     background-color: black;
 }
 
+h2 {
+    color: aliceblue !important;
+}
+
 .card-title {
     color: white !important;
 }
