@@ -1,0 +1,15 @@
+.body{
+    background-color: black;
+}
+
+.card-body {
+    background-color: black;
+}
+
+.card-title {
+    color: white !important;
+}
+
+.card-text {
+    color: white;
+}
